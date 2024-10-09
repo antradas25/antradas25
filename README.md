@@ -6,7 +6,7 @@
 
 > Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/antradas25/) or [X (Twitter)](https://twitter.com/antradas25) to discuss potential collaborations!
 >
-> Special thanks to my friend, [Mukesh Prabhakar](https://github.com/mukprabhakar), who always supports me in coding and various fields, helping me grow in my career. You can connect with him on [GitHub](https://github.com/mukprabhakar) and [LinkedIn](https://www.linkedin.com/in/mukprabhakar/).
+> Special thanks to my friend, [Mukesh Pal](https://github.com/mukprabhakar), who always supports me in coding and various fields, helping me grow in my career. You can connect with him on [GitHub](https://github.com/mukprabhakar) and [LinkedIn](https://www.linkedin.com/in/mukprabhakar/).
 
 **A quote from him:**
 > *"Success is not about how much you know but about how much you are willing to learn and help others along the way."*
